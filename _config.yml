@@ -37,8 +37,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://minhwasung/minasung.github.io
-" # the base hostname & protocol for your site
+url: "https://minhwasung.github.io/mina/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "kr"
 categories_folder: category

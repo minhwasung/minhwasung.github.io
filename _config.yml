@@ -1,14 +1,10 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Mina's Blog
+title: Mina's Blog | 기획, 프로덕트 매니징에 관한 이야기
+description: 기획과 프로덕트 매니징을 공부한 내용을 정리하는 블로그입니다. 
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - 기획
+  - 프로덕트 매니징
 show_hero: true
 menu:
   - title: Home
@@ -17,21 +13,20 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+#  - title: Feed
+#    url: /feed.xml
+email: minhwa1014@gmail.com
+disqus_username: Minhwa Sung
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
-
+github_username: https://github.com/minhwasung
+# facebook_username: facebook_username
+# twitter_username: twitter_username
+# instagram_username: instagram_username
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 # Posts Settings
 show_time_bar: true
@@ -42,9 +37,10 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://minhwasung/minasung.github.io
+" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "kr"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 

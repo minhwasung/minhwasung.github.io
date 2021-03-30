@@ -1,17 +1,13 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: Mina의 기획 이야기에 대하여
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="서비스 기획자 mina" width="400">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+서비스 기획자 Mina 입니다. 스타트업에 다니고 있어요.
+이 블로그는 회사에서 일을 하고, 기획과 PM 관련 공부를 하면서 알게된 것들과 생각들을 정리하는 공간입니다. 

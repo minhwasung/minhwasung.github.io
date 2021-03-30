@@ -13,10 +13,10 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-#  - title: Feed
-#    url: /feed.xml
+  - title: Feed
+    url: /feed.xml
 email: minhwa1014@gmail.com
-disqus_username: Minhwa Sung
+disqus_username: 
 
 
 # Social Media Settings
@@ -36,10 +36,10 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://minhwasung.github.io/mina/" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://minhwasung.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "kr"
+language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 

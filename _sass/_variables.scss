@@ -8,9 +8,6 @@ $accentDark: map-get($theme, accentDark) !default;
 $lightGray: map-get($theme, lightGray) !default;
 $texts: map-get($theme, texts) !default;
 
-// fonts
-$sans-serif: "Spoqa Han Sans Neo"
-
 // Breakpoints
 $breakpoints: (
   sm: 37.5rem

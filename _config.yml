@@ -1,6 +1,6 @@
 # Site Settings
-name: Mina
-title: Mina's Blog | 기획, 프로덕트 매니징에 관한 이야기
+name: Mina의 기획 이야기
+title: Mina의 기획 이야기 | 기획, 프로덕트 매니징에 관한 이야기
 description: 기획과 프로덕트 매니징을 공부한 내용을 정리하는 블로그입니다. 
 tags:
   - 기획
@@ -50,7 +50,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: fulse
 use_logo: false
 
 # Content paginator

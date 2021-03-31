@@ -1,10 +1,10 @@
 <ul>
   {% for item in site.menu %}
+    <a href=“mailto:minhwa1014@gmail.com” target="_blank">Contact</a>
     {% if item.title and item.url %}
       <li>
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       </li>
     {% endif %}
-    <a href=“mailto:minhwa1014@gmail.com” target="_blank">Contact</a>
   {% endfor %}
 </ul>

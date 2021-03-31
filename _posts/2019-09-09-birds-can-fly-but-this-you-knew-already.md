@@ -1,137 +1,37 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2021-03-31
 layout: post
-title: 테스트용 포스팅
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: life
+title: NEW서비스 프로젝트에 목표가 없으면?
+subtitle: 'NEW'라는 단어의 힘
+description: 프로젝트를 진행하면서 느낀점
+category: work
 tags:
-  - life
-  - tips
+  - 기획
 author: Mina Sung
 comments: true
-
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+<p>
+신입 기획자로 입사를 했을 때, 팀은 한창 ‘New서비스 프로젝트’가 진행 중이었다. <br> 기존 서비스에서 UI를 개선한 디자인 산출물이 모두 나와 있는 상황이였고, 개발도 한창 진행중이었다. 
+</p>
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+<p> 
+‘NEW’라는 단어는 사람들의 열정을 끌어올리고, 설레게 하는 힘이 있는 것 같다. 새로움. 좋은 단어이다.
+> 하지만 목표가 명확하지 않을 때 혹은 없을 때 이 단어는 위험하다. 
+기능을 하나씩 살펴볼 때마다 플로우가 이상하거나, 관련 CS인입이 들어오거나, 정책적으로 부족한 부분들이 발견 되었고,(거의 모든..)<br>‘NEW서비스’라는 단어는 우리 팀과 회사에게 이 기회에 개선하자(?)라는 흐름을 만들었다.
+<br>우리는 머리를 맞대 논의하고 또 논의하였고, 와이어프레임을 다시 그리고 디자인을 다시 만들고, 정책도 수정하였다. <br>그렇게 한 개, 두 개 계속 계속 수정하고 추가하였다. 일정도 충분하지는 않았지만 조금씩 미뤄졌다. 
+</p>
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+<p>
+그리고 목표한 일정이 다가올 무렵, 개발자 분들로부터 회의 요청이 왔고, 회의의 안건은 일정을 맞추는 것이 불가능하다는 것이었다. 당연한 수순이었다.
+<br>이제 일정을 맞추는 것이 최우선 순위가 되어 새롭게 추가한 기능을 모두 덜어내고, 다시 수정하는 과정을 거쳤다. 
+</p>
 
-## Inline HTML elements
+<p>
+이러한 과정들을 겪고 나서 왜 이런 일이 이러났을까 고민해보았다. 근본적인 원인은 ‘NEW’ 프로젝트가 시작되었을 때, 명확한 목표가 없던 것이었다고 판단을 내렸다. 
+<br>목표가 없는 상황에서 ‘NEW’ 서비스에 걸맞게 이 기능 또 다른 기능을 추가하게 되었고, 규모가 점점 커져 갔던 것이다. 
+<br>목표가 있었다면 어떤 기능 추가 의견이 들어왔을 때, “좋은 의견이지만 이 프로젝트에는 포함시키기 힘들다. 리스트업을 해두고 계획을 세우자” 라고 합의를 볼 수 있지 않았을까? 
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
+#### 프로젝트는 아직 끝나지 않고 있다. 
 
 

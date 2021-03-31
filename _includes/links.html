@@ -1,8 +1,8 @@
 <ul>
   {% for item in site.menu %}
-    <a href=“mailto:minhwa1014@gmail.com” target="_blank">Contact</a>
     {% if item.title and item.url %}
       <li>
+        <a href=“mailto:minhwa1014@gmail.com” target="_blank">Contact</a>
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       </li>
     {% endif %}

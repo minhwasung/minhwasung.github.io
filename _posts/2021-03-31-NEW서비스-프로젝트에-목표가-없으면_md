@@ -2,7 +2,7 @@
 date: 2021-03-31
 layout: post
 title: NEW서비스 프로젝트를 시작할 때 목표가 없으면
-subtitle: 프로젝트는 끝나지 않는다
+subtitle: '프로젝트는 끝나지 않는다'
 description: >-
   프로젝트를 시작할 때 목표의 중요성
 image:
@@ -11,6 +11,7 @@ category: work
 tags:
   - 기획
 author: Mina Sung
+paginate: true
 ---
 
 ## 시작

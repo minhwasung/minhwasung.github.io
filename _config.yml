@@ -5,6 +5,7 @@ description: 기획과 프로덕트 매니징을 공부한 내용을 정리하�
 tags:
   - 기획
   - 프로덕트 매니징
+  - 커뮤니케이션
 show_hero: true
 menu:
   - title: Home
@@ -12,10 +13,11 @@ menu:
   - title: About
     url: /about
   - title: Contact
-    url: /contact
+    <a href=“mailto:minhwa1014@gmail.com”>contact</a>
+   
 email: minhwa1014@gmail.com
 disqus_username: minhwa_sung
-disqus_shortname: github-blog-w8gp15mabw
++disqus_shortname: github-blog-w8gp15mabw
 
 # Social Media Settings
 # Remove the item if you don't need it
@@ -103,7 +105,7 @@ translations:
     share: "Share"
     comments: "Comments"
   button:
-    read_now: "보러가기"
+    read_now: "보러 가기"
     share_on_twitter: "Share on Twitter"
     share_on_facebook: "Share on Facebook"
   pagination:

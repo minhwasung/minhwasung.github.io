@@ -12,7 +12,8 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: <a href=“mailto:minhwa1014@gmail.com” target="_blank">Contact</a>
+  - title: Contact
+    url: 
    
 email: minhwa1014@gmail.com
 disqus_username: minhwa_sung
